@@ -46,9 +46,7 @@ namespace Stronk
         }
 
 
-        public override void OnLoad()
-        {
-        }
+       
         public override void Config()
         {
             SettingAPI setting = new SettingAPI();
@@ -63,6 +61,7 @@ namespace Stronk
             mainscript.M.player.maxPickupForce = maxPickupForceSliderValue;
             mainscript.M.player.throwForceM = throwForceSliderValue;
             mainscript.M.player.throwForceGain = throwForceGainSliderValue;
+
  
     }
 
