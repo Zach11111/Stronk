@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <BaseOutputPath>C:\Users\Zach\Documents\TheLongDrive\Mods</BaseOutputPath>
+    <BaseOutputPath>C:\Users\Zach\Documents</BaseOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
@@ -12,7 +12,7 @@
       <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\The Long Drive\TheLongDrive_Data\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="TLDLoader">
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\The Long Drive\TheLongDrive_Data\Managed\TLDLoader.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\TLDLoader.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\The Long Drive\TheLongDrive_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
