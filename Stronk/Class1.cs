@@ -36,7 +36,7 @@ namespace Stronk
         {
             get
             {
-                return "0.0.0";
+                return "1.0.0";
             }
         }
 
